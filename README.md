@@ -1,4 +1,4 @@
-writeup for "Tryhackme.com room Windows Privilege Escalation, Task 7 Abusing vulnerable software" by VonKlotz
+writeup by VonKlotz for "Tryhackme.com room Windows Privilege Escalation, Task 7 Abusing vulnerable software Created by  tryhackme and  munra"
 
 Case study: RealVNC 6.8.0
 
